@@ -1,3 +1,6 @@
+## Le lieu ou l'on peut tout trouver
+## https://sites.google.com/site/mathsasius/college/4eme/chapitre-12-le-theoreme-de-t-hales
+## https://app.box.com/s/tydl4yqn5o941ru0jdot
 # Mesurer le temple de neptune !
 
 ## Sommaire
