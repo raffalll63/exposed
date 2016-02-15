@@ -6,7 +6,7 @@
   * [Passons à la pratique](#passons-à-la-pratique)
     * [1er méthode](#1er-méthode-en-comparant-les-ombres)
     * [2ème méthode](#2ème-méthode-avec-la-distance)
-  * [Liens utiles](liens-utiles)
+  * [Liens utiles](#liens-utiles)
 
 ## Thalès
 Thalès de Milet, appelé communément Thalès (en grec ancien : Θαλῆς ὁ Μιλήσιος / Thalễs ho Milếsios), est un philosophe et savant grec né à Milet vers -625 et mort vers -546 dans cette même ville.
