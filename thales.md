@@ -1,6 +1,3 @@
-## Le lieu ou l'on peut tout trouver
-## https://sites.google.com/site/mathsasius/college/4eme/chapitre-12-le-theoreme-de-t-hales
-## https://app.box.com/s/tydl4yqn5o941ru0jdot
 # Mesurer le temple de neptune !
 
 ## Sommaire
@@ -9,6 +6,7 @@
   * [Passons à la pratique](#passons-à-la-pratique)
     * [1er méthode](#1er-méthode-en-comparant-les-ombres)
     * [2ème méthode](#2ème-méthode-avec-la-distance)
+  * [Liens utiles](liens-utiles)
 
 ## Thalès
 Thalès de Milet, appelé communément Thalès (en grec ancien : Θαλῆς ὁ Μιλήσιος / Thalễs ho Milếsios), est un philosophe et savant grec né à Milet vers -625 et mort vers -546 dans cette même ville.
@@ -80,3 +78,9 @@ H ≈ 4411.8 cm
 ####La hauteur à trouver: H = _____
 
 ### 2ème méthode avec la distance
+
+##Liens utiles
+
+https://sites.google.com/site/mathsasius/college/4eme/chapitre-12-le-theoreme-de-t-hales
+
+https://app.box.com/s/tydl4yqn5o941ru0jdot
