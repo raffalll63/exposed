@@ -118,4 +118,4 @@ En utilisant le théorème de Pythagore on a ![](http://lycees.ac-rouen.fr/bruye
 
 et par suite ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image91.gif)
 
-On a donc ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image92.gif)  puisque  
+On a donc ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image92.gif) puisque ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image100.gif)
