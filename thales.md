@@ -7,6 +7,7 @@
     * [1er méthode](#1er-méthode-en-comparant-les-ombres)
     * [2ème méthode](#2ème-méthode-avec-la-distance)
   * [Liens utiles](#liens-utiles)
+* [Le nombre d'or](#le-nombre-d-or)
 
 ## Thalès
 Thalès de Milet, appelé communément Thalès (en grec ancien : Θαλῆς ὁ Μιλήσιος / Thalễs ho Milếsios), est un philosophe et savant grec né à Milet vers -625 et mort vers -546 dans cette même ville.
@@ -84,3 +85,37 @@ H ≈ 4411.8 cm
 https://sites.google.com/site/mathsasius/college/4eme/chapitre-12-le-theoreme-de-t-hales
 
 https://app.box.com/s/tydl4yqn5o941ru0jdot
+
+# Le nombre d or
+
+Le nombre d'or est maintenant souvent désigné par la lettre φ (phi).
+la solution de l'équation x² = x + 1. Il vaut exactement :
+
+![Finder screenshot](https://upload.wikimedia.org/math/7/0/e/70e860be60f52ced1d2fd328d5fda675.png)
+
+soit approximativement 1,6180339887.
+
+ La construction d'un rectangle d'or est simple, il suffit de suivre les instructions suivantes :
+
+- tracer un carré ABCD
+- noter E le milieu de [AB]
+- tracer un cercle C de centre E et de rayon (EC)
+- prolonger [AB) jusqu'à ce qu'il coupe le cercle
+- noter F le point d'intersection de (AB) sur C
+- tracer [FG] perpendiculaire à [AF]
+- prolonger [DC] jusqu'à ce qu'il coupe la perpendiculaire
+- noter G le point d'intersection
+
+Le rectangle obtenu est un rectangle d'or.
+
+![Finder screenshot](http://lycees.ac-rouen.fr/bruyeres/maths/Image87.gif)
+
+Prouvons que cette construction aboutit bien à un rectangle d'or, c'est à dire que ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image88.gif).
+
+Notons a le coté du carré initial. On a alors ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image89.gif) et BC = a
+
+En utilisant le théorème de Pythagore on a ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image90.gif)
+
+et par suite ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image91.gif)
+
+On a donc ![](http://lycees.ac-rouen.fr/bruyeres/maths/Image92.gif)  puisque  
